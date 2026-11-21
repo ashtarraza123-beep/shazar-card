@@ -1,0 +1,82 @@
+/*button{
+    background:white;
+    margin: auto;
+    color: #0f1419;
+    border: 1px solid #cfd9de;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right:20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    
+}
+.search-input{
+    display: block;
+    weight:400px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border: 1px solid #dfele5;
+    border-radius:24px;
+}
+2
+.logo-img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.serch-input{
+    display: block;
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    border:1px solid black ;
+    border-radius: 24px;
+    line-height: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.btn{
+    display: block;
+    margin-top: 30px;
+    margin-right: auto;
+    margin-left: auto;
+
+}*/
+body{
+    
+    margin: 30px;
+     
+}
+.img1{
+    width: 150px;
+    border: 1px dotted blueviolet;
+}
+.card{
+    width: 400px;
+   margin: 0 auto;
+    border: 1px dotted blueviolet;
+    border-radius: 30px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    background:rgb(213, 158, 228);
+    color: black;
+    border-bottom: 6px solid blue;
+    border-top:6px solid blue ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 20px;
+    animation:alternate-reverse;
+}
+.shazar{
+    border: 1px dotted blueviolet;
+    text-align: center;
+}
